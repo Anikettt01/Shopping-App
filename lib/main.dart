@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:shopping_app/home_page.dart';
-import 'package:shopping_app/product_details.dart';
+import 'package:shopping_app/Navigation%20Screens/home_page.dart';
+import 'package:shopping_app/Product%20Screens/product_details.dart';
 
-import 'cart_provider.dart';
-import 'global_variables.dart';
+import 'Cart Screens/cart_provider.dart';
+import 'Products/global_variables.dart';
 
 void main() {
   runApp(const MyApp());

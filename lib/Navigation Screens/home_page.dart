@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/cart_page.dart';
-import 'package:shopping_app/global_variables.dart';
-import 'package:shopping_app/product_card.dart';
-import 'package:shopping_app/product_details.dart';
-import 'package:shopping_app/product_list.dart';
+import 'package:shopping_app/Cart%20Screens/cart_page.dart';
+import 'package:shopping_app/Products/global_variables.dart';
+import 'package:shopping_app/Product%20Screens/product_card.dart';
+import 'package:shopping_app/Product%20Screens/product_details.dart';
+import 'package:shopping_app/Product%20Screens/product_list.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
